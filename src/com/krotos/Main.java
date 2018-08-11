@@ -9,5 +9,7 @@ public class Main {
         ReadEmployes read=new ReadEmployes();
         read.readuj();
         read.sortAndWrite();
+        MapaKont mapKont=new MapaKont();
+        mapKont.run();
     }
 }
