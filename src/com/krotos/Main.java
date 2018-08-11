@@ -8,5 +8,6 @@ public class Main {
         //mapOs.run();
         ReadEmployes read=new ReadEmployes();
         read.readuj();
+        read.sortAndWrite();
     }
 }
