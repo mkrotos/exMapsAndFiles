@@ -1,0 +1,3 @@
+Adam; Kowalski; Kiero; 67812;
+Pawel; Nowak; Wsparcie; 912761276;
+Seba; Typowy; Pracownik; 123;
